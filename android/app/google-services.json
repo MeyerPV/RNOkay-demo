@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "56594385501",
+    "firebase_url": "https://testlibrary-15410.firebaseio.com",
+    "project_id": "testlibrary-15410",
+    "storage_bucket": "testlibrary-15410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56594385501:android:a7bfca08eab510da",
+        "android_client_info": {
+          "package_name": "com.librarytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56594385501-a8tj4tpo10i94rge446eoef0vji9e0gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgHsueklMcGyiSpymOq23G0pZfLLdoL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56594385501-a8tj4tpo10i94rge446eoef0vji9e0gj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56594385501-jhvi7v18s3u4f95kbk8gm7etvahmlbd5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TestInstalliOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56594385501:android:a82be9614e402f68",
+        "android_client_info": {
+          "package_name": "com.protect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56594385501-a8tj4tpo10i94rge446eoef0vji9e0gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgHsueklMcGyiSpymOq23G0pZfLLdoL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56594385501-a8tj4tpo10i94rge446eoef0vji9e0gj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56594385501-jhvi7v18s3u4f95kbk8gm7etvahmlbd5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TestInstalliOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56594385501:android:ba0815c1603b7e36",
+        "android_client_info": {
+          "package_name": "com.updateokay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56594385501-a8tj4tpo10i94rge446eoef0vji9e0gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgHsueklMcGyiSpymOq23G0pZfLLdoL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56594385501-a8tj4tpo10i94rge446eoef0vji9e0gj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56594385501-jhvi7v18s3u4f95kbk8gm7etvahmlbd5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TestInstalliOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56594385501:android:eb5bd49e5e93842f",
+        "android_client_info": {
+          "package_name": "com.wantbridgingheader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56594385501-a8tj4tpo10i94rge446eoef0vji9e0gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgHsueklMcGyiSpymOq23G0pZfLLdoL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56594385501-a8tj4tpo10i94rge446eoef0vji9e0gj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56594385501-jhvi7v18s3u4f95kbk8gm7etvahmlbd5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TestInstalliOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

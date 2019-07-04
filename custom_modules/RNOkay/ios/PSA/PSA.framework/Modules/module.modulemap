@@ -1,0 +1,6 @@
+framework module PSA {
+  umbrella header "PSA.h"
+
+  export *
+  module * { export * }
+}

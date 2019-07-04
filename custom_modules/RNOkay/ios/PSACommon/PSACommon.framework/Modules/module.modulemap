@@ -1,0 +1,6 @@
+framework module PSACommon {
+  umbrella header "PSACommon.h"
+
+  export *
+  module * { export * }
+}
